@@ -1,0 +1,17 @@
+body{
+text-align:center;
+backgroundcolor:#34ebb4;
+color:#7aeb34;
+}
+div{
+margin-top: 22px;
+}
+.imagen-seccin{
+display:flex;
+justify-content:center;
+}
+.estilo-seccion{
+margin-right:30px;
+margin-left:30px;
+background-color:white;
+}
